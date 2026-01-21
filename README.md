@@ -1,6 +1,6 @@
 # Rick & Morty app - Code Challenge 🚀
 
-Esta es una aplicación web de alto nivel construida para un Code Challenge de **Pink Technologies**. Permite a los usuarios explorar el universo de Rick & Morty con una interfaz moderna, fluida y totalmente responsiva.
+Esta es una aplicación web para un Code Challenge. Permite a los usuarios explorar el universo de Rick & Morty con una interfaz moderna, fluida y totalmente responsiva.
 
 ## ✨ Características Principales
 
